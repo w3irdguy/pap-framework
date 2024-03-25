@@ -2,8 +2,8 @@ read -p "Do you want install (y/n) > " resp
 if [ "$resp" == "y" ]
 then
 	sudo apt install ruby
-	gem install tty-prompt
-	gem install pastel
+	sudo gem install tty-prompt
+	sudo gem install pastel
 	sudo chmod +x papinput
 	sudo mv papinput /bin/
 	mv usp.rb $HOME
