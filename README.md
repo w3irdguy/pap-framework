@@ -13,3 +13,7 @@ sudo apt install git ; git clone https://github.com/z4kc/pap-framework ; cd pap-
 # Usage
 
 type papinput. and help to show avaliable commands
+
+# Spoilers
+
+The ssh connection, languane translations, email validator, number validator are coming soon...
