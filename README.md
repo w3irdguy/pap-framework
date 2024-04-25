@@ -14,3 +14,6 @@ sudo apt install git ; git clone https://github.com/z4kc/pap-framework ; cd pap-
 
 type papinput. and help to show avaliable commands
 
+# Coming Soon...
+
+translate languages...
