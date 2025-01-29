@@ -8,7 +8,7 @@ This is only a terminal test, im not responding for your actions.
 # Installation
 
 ```console
-sudo apt install git ; git clone https://github.com/z4kc/pap-framework ; cd pap-framework ; bash start.sh
+sudo apt install git ; git clone https://github.com/w3irdguy/pap-framework ; cd pap-framework ; bash start.sh
 ```
 # Usage
 
